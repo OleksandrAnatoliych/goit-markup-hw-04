@@ -152,6 +152,7 @@ img {
 
 /* #region hero */
 .hero {
+  max-width: 1440px;
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
@@ -165,7 +166,7 @@ img {
 }
 
 .hero-container {
-  max-width: 1440px;
+  
   display: block;
   align-content: center;
 }
@@ -243,8 +244,7 @@ img {
 }
 
 .feature-icon {
-  width: 64px;
-  height: 64px;
+  
 }
 
 .strategy {
@@ -345,8 +345,7 @@ img {
 }
 
 .icons {
-  width: 16px;
-  height: 16px;
+  
 }
 
 /* #endregion section 2 */
